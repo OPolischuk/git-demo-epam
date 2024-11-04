@@ -4,4 +4,4 @@
 Не зважаючи на рани!
 
 I like GIT!
-Hello, Wirld!
+Hello, World!
