@@ -11,3 +11,7 @@ some content #1
 --------------------------
 
 second branch
+
+-------------------------
+
+second commit of second branch
